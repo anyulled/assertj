@@ -1,7 +1,7 @@
 plugins {
     id 'java'
     id "io.freefair.lombok" version "8.4"
-    id 'org.assertj.generator' version '0.0.6'
+    id 'org.assertj.generator' version '1.1.1'
 }
 sourceSets {
     main {
